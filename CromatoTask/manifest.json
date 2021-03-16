@@ -1,0 +1,38 @@
+{
+    "name": "Cromato Task",
+    "description" : "Planing list extension",
+    "version": "0.0.0.1",
+    "manifest_version": 3,
+    "action":
+    {
+        "default_popup": "popup.html",
+        "default_icon":
+        {
+            "16": "/icons/scroll_16.png",
+            "32": "/icons/scroll_32.png",
+            "48": "/icons/scroll_48.png",
+            "128": "/icons/scroll_128.png"
+        }
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "icons": {
+        "16": "/icons/scroll_16.png",
+        "32": "/icons/scroll_32.png",
+        "48": "/icons/scroll_48.png",
+        "128": "/icons/scroll_128.png"
+    },
+    "commands":
+    {
+        "_execute_action":
+        {
+            "suggested_key":
+            {
+                "default": "Shift+Alt+A"
+            },
+            "description": "Show tasks"
+        }
+    },
+    "permissions": ["storage"]
+}
