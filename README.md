@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/sigdev2/cromatotask/master/CromatoTask/48.png" alt="Logo" width="48" height="48">
     <h3 align="center">Cromato Task</h3>
     <p align="center">Last version 0.0.0.1</p>
-	<p align="center"><a target="_blank" href="https://chrome.google.com/webstore/detail/cromato-task/bmfmcjdifalhkeifinbocadpchnjbloi?hl=en">View in Google Store</a><p>
+	<p align="center"><a target="_blank" href="https://chrome.google.com/webstore/detail/cromato-task/bmfmcjdifalhkeifinbocadpchnjbloi?hl=en">View in Chrome Web Store</a><p>
 </p>
 
 
