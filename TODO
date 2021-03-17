@@ -1,3 +1,4 @@
+ - Storage version migration system
  - Mask or encrypt data
  - Edit on the fly
  - Edit tab and list labels
