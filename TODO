@@ -1,3 +1,4 @@
+TODO:
  - Storage version migration system
  - Mask or encrypt data
  - Edit on the fly
@@ -8,3 +9,6 @@
  - Change colors of lists
  - Lists view modes (Kanban boars, etc ...)
  - Mobile design optimization
+BUGS:
+ - Update task counter on load browser
+ - Wrong current tab on load
