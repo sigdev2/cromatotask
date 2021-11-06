@@ -150,6 +150,7 @@ body
 
 #todo_body .tabcontent button.addlist
 {
+    float: right;
     width: 24px;
     height: 24px;
     display: block;
@@ -171,16 +172,19 @@ body
     font-size: 16px;
     margin-right: 5px;
     line-height: 16px;
+    float: left;
 }
 
 #todo_body .tabcontent button.addtask
 {
     background-image: url('./icons/add_task_48.png');
+    float: left;
 }
 
 #todo_body .tabcontent button.removelist
 {
     background-image: url('./icons/delete_48.png');
+    float: left;
 }
 
 /* task */
@@ -250,6 +254,7 @@ body
 #todo_body .tabcontent li button.edittask
 {
     background-image: url('./icons/edit_48.png');
+    float: right;
 }
 
 #todo_body .tabcontent li button.uptask
@@ -265,6 +270,7 @@ body
 #todo_body .tabcontent li button.deltask
 {
     background-image: url('./icons/delete_48.png');
+    float: right;
 }
 
 #todo_body .tabcontent li button
